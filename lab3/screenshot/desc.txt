@@ -1,0 +1,1 @@
+The card displays different mobile phones. The card contains the picture, name and price of the mobile phone. Click the purchase button to jump to the order details page.
